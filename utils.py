@@ -19,7 +19,7 @@ def preprocess_image(image_file):
     return img_array
 
 
-def load_model(model_path="C:/Users/Joseph/Desktop/Project_port/Minst_ML/model/mnist_pipeline.keras"):
+def load_model(model_path="model/mnist_pipeline.keras"):
     return tf.keras.models.load_model(model_path)
 
 
