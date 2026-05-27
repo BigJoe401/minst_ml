@@ -2,6 +2,9 @@
 
 An interactive web application built with Deep Learning and Streamlit to recognize handwritten digits (0–9) from the classic MNIST dataset. The project features full model inference, modular helper utilities, and containerization support using Docker.
 
+## 🔗 Live Demo
+Deploy and test the live application here: [https://bigjoe401-minst-ml-app-nbx3ua.streamlit.app/](https://bigjoe401-minst-ml-app-nbx3ua.streamlit.app/)
+
 ---
 
 # 🚀 Features
